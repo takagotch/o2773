@@ -1,5 +1,5 @@
 # Site settings
-title: TKVTV | Dental Jekyll Theme
+title: TKVTV 
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "/page121" # the subpath of your site, e.g. /blog
 url: "https://takagotch.github.io" # the name of your domain
@@ -45,7 +45,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2020 tkvtv - All rights reserved
 
 # Build settings
 markdown: kramdown
